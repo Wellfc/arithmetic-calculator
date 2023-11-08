@@ -60,8 +60,8 @@ body {
  color: #fff;
 }
 ```
-
-* The main element should have a height of 100% and a display of grid used to center the carculator.
+The following rules are used to center the carculator:
+* The main element should have a height of 100% and a display of grid.
 ```CSS
 main {
   height: 100dvh;
@@ -69,7 +69,7 @@ main {
   place-items: center;
 }
 ```
-
+The following rules are used to set the style of the text inputs:
 * The input elements with the type `number` should have a margin of 8px 0, a padding of 8px, a width of 100%, and a font size of 16px.
 * The input element with the type `number`:read-only should have a border of 1px solid #000, a background color of #666, a color of #fff,
   a text-align of center, a font size of 22px, and a font weight of 600.
