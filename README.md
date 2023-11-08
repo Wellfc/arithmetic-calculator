@@ -1,5 +1,5 @@
 # arithmetic-calculator
-This code creates an arithmetic calculator that can perform addition, subtraction, 
+An arithmetic calculator that can perform addition, subtraction, 
 multiplication, and division of two numbers. Below is a Demo and how to understand and use the code.
 
 ### Demo
