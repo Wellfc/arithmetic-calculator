@@ -6,6 +6,10 @@ multiplication, and division of two numbers. Below is a Demo and how to understa
 
 Click [here](https://wellfc.github.io/arithmetic-calculator/) to test the application.
 
+<img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+
 ## HTML
 This is the web page structure. It contains the calculator interface, including 
 two input fields for numbers, four buttons for arithmetic operations, and an input field 
