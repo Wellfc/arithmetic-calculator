@@ -4,7 +4,7 @@ multiplication, and division of two numbers. Below is a Demo and how to understa
 
 ### Demo
 
-Click [here](https://wellfc.github.io/client-detection/) to test the application.
+Click [here](https://wellfc.github.io/arithmetic-calculator/) to test the application.
 
 ## HTML
 This is the web page structure. It contains the calculator interface, including 
