@@ -1,6 +1,6 @@
 # arithmetic-calculator
 An arithmetic calculator that can perform addition, subtraction, 
-multiplication, and division of two numbers. Below is a Demo and how to understand and use the code.
+multiplication, and division of two numbers. Below is a Demo and how to understand the code.
 
 ### Demo
 
